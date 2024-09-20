@@ -1,0 +1,2 @@
+# nanodergi
+nanodergi gereklilikler
